@@ -1,0 +1,33 @@
+
+<!-- HEADER_FINAL 
+  Liens à compléter
+-->
+
+
+<!-- BREADCRUMPS
+Accueil > Devenir ingénieur > Apprentissage 
+-->
+
+
+<!-- PLUGGIN TEXT_IMG
+Ingénieur par l’apprentissage
+
+Le cycle ingénieur correspond aux trois dernières années de la formation d’ingénieur. Sous statut apprenti, ces trois années sont réalisées en apprentissage au sein d’une entreprise d’accueil.
+
+Tout au long de cette formation, vous alternez les périodes à l’école et les périodes en entreprises en montant progressivement en compétence. Ces périodes durent environ 6 semaines lors des deux premières années, puis 6 mois la dernière année. Ces rythmes d’alternance permettent aux étudiants de travailler avec des entreprises sur tout le territoire français.
+
+https://isen-ouest.fr/wp-content/uploads/2024/11/08/shema-cycle-inge-12-1320x752.png
+-->
+
+
+<!-- PLUGGIN IMAGES 
+Images DP
+  Compléter les images à partir de la page : https://isen-ouest.fr/ecole-ingenieur/devenir-ingenieur/ingenieur-alternance/
+  8 images minimum (de votre choix à intégrer + les liens vers le site isen-ouest.fr)
+-->
+
+
+
+<!-- FOOTER_FINAL 
+  Liens à compléter
+-->

@@ -1,0 +1,86 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+    <style>
+html {
+    font-family: Open Sans,sans-serif;
+}
+
+/* Fil d’Ariane - bloc principal */
+.breadcrumb {
+  background: #fff;
+}
+
+/* Conteneur aligné et flexible */
+.breadcrumb-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 20px 10px;
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+/* Groupe contenu (liens + séparateurs) */
+.breadcrumb-content {
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  font-size: 1.12em;
+}
+
+/* Liens */
+.breadcrumb a {
+  color: #000;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+/* Séparateur */
+.breadcrumb .separator {
+  margin: 0 8px;
+  color: #999;
+}
+
+/* Page courante */
+.breadcrumb .current {
+  color: #000;
+  font-weight: 600;
+  margin-left: 4px;
+}
+
+.breadcrumb-line {
+  flex: 1;
+  height: 2px;
+  background: #e30613;
+  margin-left: 15px;
+  align-self: center;
+}
+
+    </style>
+</head>
+<body>
+<!-- Fil d’Ariane -->
+<nav class="breadcrumb" aria-label="Fil d'Ariane">
+  <div class="breadcrumb-container">
+    <div class="breadcrumb-content">
+      <a href="ACOMPLETER">Accueil</a>
+      <span class="separator">›</span>
+      <a href="ACOMPLETER">Devenir ingénieur</a>
+      <span class="separator">›</span>
+      <span class="current">Parcours international</span>
+    </div>
+
+    <!-- élément qui remplit la partie droite et affiche la ligne rouge -->
+    <div class="breadcrumb-line" aria-hidden="true"></div>
+  </div>
+</nav>
+
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+
+<!-- HEADER_FINAL 
+  Liens à compléter
+-->
+
+
+<!-- BREADCRUMPS
+Accueil > Devenir ingénieur > Formations ingénieur
+-->
+
+
+
+<!-- PLUGGIN IMAGES 
+Images DP
+  Compléter les images à partir de la page : https://isen-ouest.fr/ecole-ingenieur/devenir-ingenieur/ingenieur-alternance/
+  8 images minimum (de votre choix à intégrer + les liens vers le site isen-ouest.fr)
+-->
+
+
+
+<!-- PLUGGIN BLOCK (Apprentissage / Postbac)
+	FISA
+    https://isen-ouest.fr/wp-content/uploads/2024/10/18/formation-apprentissage-scaled.jpg
+
+		Devenir ingénieur par alternance
+
+		Le cycle ingénieur en apprentissage permet d’alterner les périodes à l’école et les périodes au sein de l’entreprise d’accueil en montant progressivement en compétence. Cette formation favorise une immersion professionnelle rapide tout en étant rémunéré pendant toute la durée du contrat.
+
+		Lien : Formation d'ingénieurs sous statut apprenti
+	Post-bac
+		https://isen-ouest.fr/wp-content/uploads/2024/10/18/formation-initiale-scaled.jpg
+
+    Cycles post-bac
+
+		Au cours des trois premières années post-bac, les étudiants choisissent leur cursus parmi 7 cycles de formation différents.
+
+    Au cours de ces 3 années, les élèves acquièrent une solide formation dans les sciences et les technologies numériques tout en approfondissant une spécialité dès la première année après le baccalauréat. Plusieurs passerelles sont possibles durant les 3 premières années si l’étudiant souhaite changer de cycle.
+
+		Lien : Cycles post-bac 
+-->
+
+
+<!-- FOOTER_FINAL 
+  Liens à compléter
+-->
