@@ -172,6 +172,63 @@ html {
   font-family: Arial, sans-serif;
   font-size: 14px;
 }
+
+html {
+  font-family: Open Sans,sans-serif;
+}
+/* TEXT_IMG */
+.block-devenir {
+  background: #fff;
+  padding: 60px 20px;
+}
+
+/* Conteneur global */
+.block-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Titre en haut */
+.block-title {
+  font-size: 42px;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+/* Deux colonnes */
+.block-columns-img {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+/* Colonne texte */
+.block-text {
+  flex: 1;
+  padding-left: 5%;
+}
+
+.block-text p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 18px;
+}
+
+/* Colonne image */
+.block-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.block-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
     </style>
 </head>
 <body>
@@ -190,6 +247,35 @@ html {
     </nav>
   </div>
 </header>
+<section class="block-devenir">
+  <div class="block-container">
+    <!-- Titre en haut -->
+    <h1 class="block-title">Titre</h1>
+
+    <!-- Deux colonnes -->
+    <div class="block-columns-img">
+      <!-- Colonne gauche : texte -->
+      <div class="block-text">
+        <p>
+          
+        </p>
+        <p>
+          Nos formations ingénieurs
+Images + les liens vers le site isen-ouest.fr :
+	https://isen-ouest.fr/wp-content/uploads/2024/10/21/vignette-dp-cybersecurite.png
+	https://isen-ouest.fr/wp-content/uploads/2024/10/21/vignette-dp-developpement-logiciel.png
+	https://isen-ouest.fr/wp-content/uploads/2024/10/21/vignette-dp-intelligence-artificielle.png  
+  <img src="TP2_inputs\v1\formations.png " alt="">
+        </p>
+      </div>
+
+      <!-- Colonne droite : image -->
+      <div class="block-image">
+        <img src="https://isen-ouest.fr/wp-content/uploads/2024/07/15/logo-isen-couleur.png" alt="">
+      </div>
+    </div>
+  </div>
+</section>
 <footer class="site-footer">
   <div class="footer-container">
 
