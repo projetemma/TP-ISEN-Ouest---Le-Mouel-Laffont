@@ -1,0 +1,51 @@
+
+<!-- HEADER_FINAL 
+  Liens à compléter
+-->
+
+
+<!-- BREADCRUMPS
+ Accueil > Devenir ingénieur
+-->
+
+
+<!-- PLUGIN TEXT_IMAGE
+	Devenir ingénieur
+
+	Parce que les technologies et l’IA sont partout, l’ISEN Ouest forme des ingénieurs aptes à répondre aux besoins des entreprises dans tous les secteurs d’activités.
+
+	Après le baccalauréat, vous optez pour un cycle de formation en 3 ans centré sur les sciences appliquées, le numérique et l’IA. En fonction de votre profil, sept cursus différents sont proposés. Pendant ces trois premières années, vous réfléchissez à votre projet professionnel et vous pouvez changer de cursus.
+
+	Ensuite, vous accédez sans critère de classement aux domaines professionnels proposés par l’ISEN Ouest. C’est le temps de la spécialisation.
+
+	La formation d’ingénieur généraliste ne se limite pas aux matières techniques ou scientifiques. Les élèves-ingénieurs apprennent à communiquer, à manager, à prendre de la hauteur sur leurs activités et surtout, comme personne ne connait les technologies de demain, ils apprennent à apprendre.
+
+	https://isen-ouest.fr/wp-content/uploads/2024/08/21/science-et-numerique.jpg
+-->
+
+
+
+<!-- PLUGGIN BLOCK (FISE / FISA)
+	FISE
+		https://isen-ouest.fr/wp-content/uploads/2024/10/18/formation-initiale-scaled.jpg
+
+    Devenir ingénieur sous statut étudiant
+
+		Le cycle ingénieur sous statut étudiant offre une formation complète, alliant cours théoriques, travaux pratiques et projets en équipe. Les étudiants bénéficient d’une progression structurée avec des stages en entreprise pour développer les compétences acquises dans leurs enseignements.
+
+		Lien : Formation d'ingénieurs sous statut étudiant 
+
+	FISA
+    https://isen-ouest.fr/wp-content/uploads/2024/10/18/formation-apprentissage-scaled.jpg
+
+		Devenir ingénieur par alternance
+
+		Le cycle ingénieur en apprentissage permet d’alterner les périodes à l’école et les périodes au sein de l’entreprise d’accueil en montant progressivement en compétence. Cette formation favorise une immersion professionnelle rapide tout en étant rémunéré pendant toute la durée du contrat.
+
+		Lien : Formation d'ingénieurs sous statut apprenti
+	-->
+
+
+<!-- FOOTER_FINAL 
+  Liens à compléter
+-->
